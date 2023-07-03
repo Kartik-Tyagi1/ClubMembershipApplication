@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTBGuGtwBssOIOTXxyDEc9IWahSWli/1bAjla9VNhzYd42mgV1CVyXbPtvuMK9r3XGI/hrm/swHIY9HLlhvc+A==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\C_Sharp\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kartik Tyagi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kartik Tyagi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

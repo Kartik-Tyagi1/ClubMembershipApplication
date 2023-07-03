@@ -1,0 +1,10 @@
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.deps.json
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.dll
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.pdb
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.csproj.AssemblyReference.cache
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.dll
+C:\Dev\C_Sharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.pdb
